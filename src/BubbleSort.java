@@ -12,6 +12,7 @@ public class BubbleSort {
                 }
             }
         }
+        System.out.println("The result of sorting from smallest to largest is : ");
         for (int j = 0; j < array.length; j++) {
             System.out.println(array[j] + ",");
         }
